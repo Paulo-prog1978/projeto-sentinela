@@ -2,7 +2,7 @@
 
 Case independente com empresa e dados fictícios.
 
-Gerado em UTC: 2026-10-22T00:04:31.105933+00:00
+Gerado em UTC: 2026-10-22T01:04:19.242746+00:00
 Fonte: dados/eventos.csv
 SHA-256 da fonte: aa55473d1f70bd1c5a5eabfcb6572eb0181aef66f392f394bb9b23c5ed018feb
 Eventos analisados: 18
