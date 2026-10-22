@@ -1,0 +1,19 @@
+evento_id,data_hora,usuario,ip_origem,sistema,acao,resultado,quantidade,detalhe
+EVT001,2026-10-21T07:50:00-03:00,analista.atendimento01,192.0.2.10,identidade,login,sucesso,1,Dispositivo habitual
+EVT002,2026-10-21T07:55:00-03:00,analista.atendimento01,192.0.2.10,crm,consulta_clientes,sucesso,15,Atendimento de rotina
+EVT003,2026-10-21T08:02:00-03:00,prestador.suporte01,198.51.100.25,identidade,login,falha,1,Senha incorreta
+EVT004,2026-10-21T08:03:00-03:00,prestador.suporte01,198.51.100.25,identidade,login,falha,1,Senha incorreta
+EVT005,2026-10-21T08:04:00-03:00,prestador.suporte01,198.51.100.25,identidade,login,falha,1,Senha incorreta
+EVT006,2026-10-21T08:04:10-03:00,prestador.suporte01,198.51.100.25,identidade,login,falha,1,Senha incorreta
+EVT007,2026-10-21T08:04:20-03:00,prestador.suporte01,198.51.100.25,identidade,login,falha,1,Senha incorreta
+EVT008,2026-10-21T08:04:30-03:00,prestador.suporte01,198.51.100.25,identidade,login,falha,1,Senha incorreta
+EVT009,2026-10-21T08:05:00-03:00,prestador.suporte01,198.51.100.25,identidade,login,falha,1,Senha incorreta
+EVT010,2026-10-21T08:05:10-03:00,prestador.suporte01,198.51.100.25,identidade,login,falha,1,Senha incorreta
+EVT011,2026-10-21T08:05:20-03:00,prestador.suporte01,198.51.100.25,identidade,login,falha,1,Senha incorreta
+EVT012,2026-10-21T08:05:30-03:00,prestador.suporte01,198.51.100.25,identidade,login,falha,1,Senha incorreta
+EVT013,2026-10-21T08:06:00-03:00,prestador.suporte01,198.51.100.25,identidade,login,falha,1,Senha incorreta
+EVT014,2026-10-21T08:06:30-03:00,prestador.suporte01,198.51.100.25,identidade,login,falha,1,Senha incorreta
+EVT015,2026-10-21T08:07:00-03:00,prestador.suporte01,198.51.100.25,identidade,login,sucesso,1,Origem sem historico no perfil simulado
+EVT016,2026-10-21T08:11:00-03:00,prestador.suporte01,198.51.100.25,identidade,concessao_privilegio,sucesso,1,Conta beneficiaria recebeu perfil exportador de clientes - executor a confirmar
+EVT017,2026-10-21T08:15:00-03:00,prestador.suporte01,198.51.100.25,crm,consulta_clientes,sucesso,4800,Consulta em lote - autorizacao a verificar
+EVT018,2026-10-21T08:18:00-03:00,prestador.suporte01,198.51.100.25,crm,criacao_exportacao,sucesso,4800,Arquivo clientes_exportacao.csv criado - transferencia nao confirmada

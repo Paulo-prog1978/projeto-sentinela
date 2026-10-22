@@ -1,0 +1,28 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Configurações e credenciais locais
+.env
+.env.*
+!.env.example
+
+# Configurações locais do editor
+.vscode/
+.idea/
+
+# Arquivos do sistema
+Thumbs.db
+.DS_Store
+
+# Rascunho criado durante a organização
+src/rascunho_readme/
+
+# Relatórios gerados; manter somente o exemplo revisado
+relatorios/*
+!relatorios/exemplo_triagem.md
+
